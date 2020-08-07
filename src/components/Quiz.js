@@ -91,8 +91,8 @@ class Quiz extends React.Component {
       <div style={{ right: 100}}>
         <h2>{this.state.question}</h2>
 
-        <div class="custom-collapse">
-        <div style={{ overflow: 'auto', maxHeight: 450, maxWidth: 200 }}>
+
+        <div style={{ overflow: 'auto'}}>
           <ListGroup>
             {this.state.options.map((option, id) => (
               <ListGroupItem style= {{width: 200 }} key={id} action onClick={(id) => this.optionClicked(option.option_result)}>
@@ -100,7 +100,6 @@ class Quiz extends React.Component {
               </ListGroupItem>
             ))}
           </ListGroup>
-        </div>
         </div>
 
 
