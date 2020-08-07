@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prediction_quiz/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/prediction_quiz/static/js/main.bb76e640.chunk.js",
+    "main.js.map": "/prediction_quiz/static/js/main.bb76e640.chunk.js.map",
+    "runtime-main.js": "/prediction_quiz/static/js/runtime-main.e882f9bf.js",
+    "runtime-main.js.map": "/prediction_quiz/static/js/runtime-main.e882f9bf.js.map",
+    "static/js/2.bb84829c.chunk.js": "/prediction_quiz/static/js/2.bb84829c.chunk.js",
+    "static/js/2.bb84829c.chunk.js.map": "/prediction_quiz/static/js/2.bb84829c.chunk.js.map",
+    "index.html": "/prediction_quiz/index.html",
+    "precache-manifest.f1adb275f0f1e4c311ad86855bc1d218.js": "/prediction_quiz/precache-manifest.f1adb275f0f1e4c311ad86855bc1d218.js",
+    "service-worker.js": "/prediction_quiz/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/prediction_quiz/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bb84829c.chunk.js.LICENSE.txt": "/prediction_quiz/static/js/2.bb84829c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e882f9bf.js",
+    "static/js/2.bb84829c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bb76e640.chunk.js"
+  ]
+}
