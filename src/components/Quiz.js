@@ -91,7 +91,7 @@ class Quiz extends React.Component {
       <div style={{ right: 100}}>
         <h2>{this.state.question}</h2>
 
-
+        <div class="custom-collapse">
         <div style={{ overflow: 'auto', maxHeight: 450, maxWidth: 200 }}>
           <ListGroup>
             {this.state.options.map((option, id) => (
@@ -100,6 +100,7 @@ class Quiz extends React.Component {
               </ListGroupItem>
             ))}
           </ListGroup>
+        </div>
         </div>
 
 
