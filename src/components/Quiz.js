@@ -88,7 +88,7 @@ class Quiz extends React.Component {
   
   render() {
     return (
-      <div style={{ right: 100}}>
+
         <h2>{this.state.question}</h2>
 
 
@@ -109,7 +109,7 @@ class Quiz extends React.Component {
         </button>
 
         <h1>{this.state.final_outcome}</h1>
-      </div>
+
 
 
     )
