@@ -2,7 +2,7 @@
 export const quizinfo = [
     {
         id: 0, 
-        question: 'What is your favorite season?',
+        question: ' is your favorite season?',
         options: [
             {
                 option_display: 'Winter',
